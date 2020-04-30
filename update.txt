@@ -1,0 +1,22 @@
+v1.3
+-changed food values for pies
+-added Oshizushi, Seaweed, Futomaki, Uramaki, Rice Bread
+-renamed Twinkie to Vanilla Cookie, Oreo to Chocolate Cookie, Oreo Cake/Cupcake to Chocolate Cookie Cake/Cupcake
+-removed Rice Seeds - Rice now acts as both the seed and the food item
+-changed the texture of Vanilla Cookie, Caramel Apple, Crouton, Chocolate, Burrito, Tomato Sauce, Hot Sauce
+-updated Pie, Strawberry Ice Cream, and Coffee textures
+-changed the output for Empty Can recipe from 2 to 4
+-changed the output for Coffee Cup recipe from 1 to 4
+-changed the recipe for Pie Shell, Baguette
+-added Smoker recipe for Salt
+
+-changed Grass drops to 20% for each seed
+
+In future:
+//-changed the crafting output of Bowls from 2 to 6
+//-added tooltips for drinks
+//-added items that can be used in a Composter
+//-changed the recipe for Bowl
+//-updated Bowl and Glass Bottle textures for specified items
+//-sauce bottles now give empty bottles back after crafting with them
+
